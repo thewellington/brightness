@@ -14,11 +14,6 @@ href="https://github.com/nriley/brightness/issues/11">this issue</a>
 for more information and some potential other options.
 </th></tr></table>
 
-Install with Homebrew
---------------------
-
-```brew install brightness```
-
 Install From Source
 ------------------
 
